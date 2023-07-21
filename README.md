@@ -1,1 +1,2 @@
-# MySql-Project-Case-Study
+# MySql-Project-Case-Study - Patient Management System
+It contains all the basic functions of SQL which include create a patients table and insert all data, display the total number of patients in the table,  display the patient’s name, and the gender of the patient must be mentioned as M or F, combine the names of the patient and the doctor, extract the year from the given date, drop table And delete table. 
